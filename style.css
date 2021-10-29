@@ -1,0 +1,13 @@
+.tag-width {
+    width: 150px;
+    text-align: center;
+}
+
+#loading,
+#results {
+    display: none;
+}
+
+#loading {
+    margin-top: 5px;
+}
